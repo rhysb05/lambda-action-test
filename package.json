@@ -1,0 +1,23 @@
+{
+  "name": "lambda-action-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhysb05/lambda-action-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhysb05/lambda-action-test/issues"
+  },
+  "homepage": "https://github.com/rhysb05/lambda-action-test#readme",
+  "devDependencies": {
+    "serverless-python-requirements": "^5.1.1"
+  }
+}
